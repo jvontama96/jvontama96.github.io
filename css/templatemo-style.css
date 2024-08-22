@@ -616,15 +616,15 @@ a#logo {
   margin-bottom: 0;
   font-size: 16px;
   margin-top: 0px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 5px;
+  color: #ffffff;
 }
 .portfolio-item .thumb-inner p {
   opacity: 0;
   visibility: hidden;
   position: absolute;
   margin-bottom: 0px;
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 5px;
-  color: #ffffff;
 }
 .portfolio-item:hover .thumb-inner p {
   position: relative;
